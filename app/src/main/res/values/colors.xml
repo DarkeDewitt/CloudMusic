@@ -2,6 +2,8 @@
 <resources>
     <color name="colorPrimary">#e00000</color>
     <color name="colorPrimaryDark">#e60000</color>
-    <color name="colorAccent">#FF4081</color>
+    <color name="colorAccent">#e00000</color>
     <color name="neteaseRed">#FF0000</color>
+    <color name="transparent">#00000000</color>
+    <color name="green">#0f00ff00</color>
 </resources>
